@@ -50,4 +50,7 @@
 			<item value="org.eclipse.jdt.ui.java"/>
 		</list>
 	</section>
+	<section name="ResourceNavigator">
+		<item key="ResourceViewer.STORE_SORT_TYPE" value="1"/>
+	</section>
 </section>

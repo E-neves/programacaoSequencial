@@ -8,11 +8,9 @@ public class pontuacao {
 		
 		Scanner leia = new Scanner(System.in);
 		
-		int v = 5;
-		int vetor[] = new int [v];
+		int[] vetor = new int [5];
 		int x;
 		
-		vetor = new int [0];
 		
 		for (x=0; x<5; x++);
 		System.out.println("Coloque a pontuação:  ");
