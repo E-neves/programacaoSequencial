@@ -4,7 +4,7 @@ public class TesteGeral {
 
 	public static void main(String[] args) {
 
-		Aprendendo dog = new Aprendendo();
+		Aprendendo1 dog = new Aprendendo1();
 		
 
 	}

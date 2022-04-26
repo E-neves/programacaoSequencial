@@ -1,14 +1,16 @@
 package generation.metodo;
 
+import javax.swing.Spring;
+
 public class TesteMetodo {
 	
-	public static void main(String[] args) { 		
-	
-	
+	public static void main(String[] args) { 	
+		
+		
 	Aluno a1 = new Aluno();
-	Aluno a2 = new Aluno();
-	
-	a1.nome = "Esmeralda"
+	Aluno a1 = new Aluno();	
+		
+	a1.nome = "Esmeralda";
 	a1.idade = 22;
 	a1.curso = "Bloco I - Java";
 	a1.matricula = "RA3655";

@@ -11,7 +11,7 @@ public class Paciente {
 		Paciente pac1 = new Paciente();
 		Paciente pac2 = new Paciente();
 		
-		pac1.
+		
 		
 		
 				

@@ -1,4 +1,4 @@
-2package acompanhandoAula;
+package acompanhandoAula;
 
 public class exercicios {
 
